@@ -1,0 +1,15 @@
+[
+{
+  "modid": "passwordtables",
+  "name": "Password Tables",
+  "description": "Password Protected Crafting",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

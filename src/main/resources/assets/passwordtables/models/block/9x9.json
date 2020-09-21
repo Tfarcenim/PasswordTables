@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "passwordtables:blocks/9x9_front",
+    "down": "blocks/planks_oak",
+    "up": "passwordtables:blocks/9x9_top",
+    "north": "passwordtables:blocks/9x9_front",
+    "east": "passwordtables:blocks/9x9_side",
+    "south": "passwordtables:blocks/9x9_side",
+    "west": "passwordtables:blocks/9x9_front"
+  }
+}
